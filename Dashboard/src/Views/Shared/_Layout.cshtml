@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My Dashboard</title>
+    @System.Web.Optimization.Styles.Render("~/Content/css")
+    @System.Web.Optimization.Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div id="wrapper">
+        <nav class="navbar navbar-inverse navbar-static-top" role="navigation" style="margin-bottom:0">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle Navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <ul class="nav navbar-nav">
+                    <li><a class="navbar-brand" href="@Url.Action("Index", "Home")">Home</a></li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+
+                    @if(Request.IsAuthenticated)
+                    {
+                        <li style="vertical-align:middle; color:white">@User.Identity.Name</li>
+                        <li><a href="@Url.Action("LogOut", "Account")">Log Out</a></li>
+                    }
+                    else
+                    {
+                        <li><a href="@Url.Action("Login", "Account")">Login</a></li>
+                        <li><a href="@Url.Action("Registration", "Account")">Register</a></li>
+                    }
+
+                    
+                    
+                </ul>
+            </div>
+            <div class="navbar-default sidebar" role="navigation">
+                <div class="sidebar-nav navbar-collapse">
+                    <ul class="nav" id="side-menu">
+                        <li class="sidebar-search">
+                            <div class="input-group custom-search-form">
+                                <input type="text" class="form-control" placeholder="Search..." />
+                                <span class="input-group-btn">
+                                    <button type="button" class="btn btn-default">
+                                        <i class="fa fa-search"></i>
+                                    </button>
+                                </span>
+                            </div>
+                        </li>
+                        <li><a href="@Url.Action("Dashboard", "Dashboard")"><i class="fa fa-dashboard fa-fw"></i> Dashboard</a></li>
+                        <li><a href="@Url.Action("CustomerList", "CustomerInformation")"><i class="fa fa-edit fa-fw"></i> Customers</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        @*<div class="container body-content">*@
+        @RenderBody()
+    </div>
+    @System.Web.Optimization.Scripts.Render("~/bundles/jquery")
+    @System.Web.Optimization.Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

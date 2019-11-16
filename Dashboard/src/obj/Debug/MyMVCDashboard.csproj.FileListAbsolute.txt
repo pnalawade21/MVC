@@ -1,0 +1,62 @@
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\obj\Debug\MyMVCDashboard.csproj.GenerateResource.Cache
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\bin\MyMVCDashboard.dll.config
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\bin\MyMVCDashboard.dll
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\bin\MyMVCDashboard.pdb
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\bin\Antlr3.Runtime.dll
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\bin\EntityFramework.dll
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\bin\EntityFramework.SqlServer.dll
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\bin\Newtonsoft.Json.dll
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\bin\System.Web.Helpers.dll
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\bin\System.Web.Mvc.dll
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\bin\System.Web.Optimization.dll
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\bin\System.Web.Razor.dll
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\bin\System.Web.WebPages.Deployment.dll
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\bin\System.Web.WebPages.dll
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\bin\System.Web.WebPages.Razor.dll
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\bin\WebGrease.dll
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\bin\Antlr3.Runtime.pdb
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\bin\EntityFramework.xml
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\bin\EntityFramework.SqlServer.xml
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\bin\Newtonsoft.Json.xml
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\bin\System.Web.Helpers.xml
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\bin\System.Web.Razor.xml
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\bin\System.Web.WebPages.xml
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\bin\System.Web.WebPages.Deployment.xml
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\bin\System.Web.WebPages.Razor.xml
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\obj\Debug\MyMVCDashboard.dll
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\obj\Debug\MyMVCDashboard.pdb
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\obj\Debug\MyMVCDashboard.Migrations.AuthenticationDBContext.Initial.resources
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\obj\Debug\MyMVCDashboard.Migrations.DashboardContext.initial_migration.resources
+D:\Prashant\.NET Projects\Examples\ASP.NET MVC Examples\MyMVCDashboard\MyMVCDashboard\obj\Debug\MyMVCDashboard.csprojResolveAssemblyReference.cache
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\bin\MyMVCDashboard.dll.config
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\bin\MyMVCDashboard.dll
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\bin\MyMVCDashboard.pdb
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\bin\Antlr3.Runtime.dll
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\bin\EntityFramework.dll
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\bin\EntityFramework.SqlServer.dll
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\bin\Microsoft.Web.Infrastructure.dll
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\bin\Newtonsoft.Json.dll
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\bin\System.Web.Helpers.dll
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\bin\System.Web.Mvc.dll
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\bin\System.Web.Optimization.dll
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\bin\System.Web.Razor.dll
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\bin\System.Web.WebPages.Deployment.dll
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\bin\System.Web.WebPages.dll
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\bin\System.Web.WebPages.Razor.dll
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\bin\WebGrease.dll
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\bin\Antlr3.Runtime.pdb
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\bin\EntityFramework.xml
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\bin\EntityFramework.SqlServer.xml
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\bin\Newtonsoft.Json.xml
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\bin\System.Web.Helpers.xml
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\bin\System.Web.Razor.xml
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\bin\System.Web.WebPages.xml
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\bin\System.Web.WebPages.Deployment.xml
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\bin\System.Web.WebPages.Razor.xml
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\obj\Debug\MyMVCDashboard.Migrations.DashboardContext.initial_migration.resources
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\obj\Debug\MyMVCDashboard.Migrations.AuthenticationDBContext.Initial.resources
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\obj\Debug\MyMVCDashboard.csproj.GenerateResource.cache
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\obj\Debug\MyMVCDashboard.csproj.CoreCompileInputs.cache
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\obj\Debug\MyMVCDashboard.csproj.CopyComplete
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\obj\Debug\MyMVCDashboard.dll
+D:\Prashant\.NET Projects\Examples\MVC Projects\MyMVCDashboard\MyMVCDashboard\obj\Debug\MyMVCDashboard.pdb
