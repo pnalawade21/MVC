@@ -1,0 +1,49 @@
+﻿@model MVCLocalization.Models.EmployeeModel
+
+@{
+    ViewBag.Title = "Employee";
+}
+
+<h2>Employee</h2>
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary()
+    
+<table>
+    <tr>
+        <td>Name:</td>
+        <td>@Html.TextBox("Name") @Html.ValidationMessage("Name", "*")</td>
+    </tr>
+    <tr>
+        <td>Email:</td>
+        <td>@Html.TextBox("Email") @Html.ValidationMessage("Email", "*")</td>
+    </tr>
+    <tr>
+        <td>Address:</td>
+        <td>@Html.TextBox("Address") @Html.ValidationMessage("Address", "*")</td>
+    </tr>
+    <tr>
+        <td>Technology:</td>
+        <td>@Html.TextBox("Technology") @Html.ValidationMessage("Technology", "*")</td>
+    </tr>
+    <tr>
+        <td>Experience:</td>
+        <td>@Html.TextBox("Experience") @Html.ValidationMessage("Experience", "*")</td>
+    </tr>
+    <tr>
+        <td>Contact No:</td>
+        <td>@Html.TextBox("ContactNo") @Html.ValidationMessage("ContactNo", "*")</td>
+    </tr>
+    <tr>
+        <td colspan="2"><input type="submit" value="submit"/></td>
+    </tr>
+</table>
+}
+
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
