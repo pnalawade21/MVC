@@ -1,0 +1,11 @@
+C:\Prashant\Examples\ASP.NET\WebAPIInMemoryDB\WebAPIInMemoryDB\bin\Debug\netcoreapp2.0\WebAPIInMemoryDB.deps.json
+C:\Prashant\Examples\ASP.NET\WebAPIInMemoryDB\WebAPIInMemoryDB\bin\Debug\netcoreapp2.0\WebAPIInMemoryDB.runtimeconfig.json
+C:\Prashant\Examples\ASP.NET\WebAPIInMemoryDB\WebAPIInMemoryDB\bin\Debug\netcoreapp2.0\WebAPIInMemoryDB.runtimeconfig.dev.json
+C:\Prashant\Examples\ASP.NET\WebAPIInMemoryDB\WebAPIInMemoryDB\bin\Debug\netcoreapp2.0\WebAPIInMemoryDB.dll
+C:\Prashant\Examples\ASP.NET\WebAPIInMemoryDB\WebAPIInMemoryDB\obj\Debug\netcoreapp2.0\WebAPIInMemoryDB.csprojResolveAssemblyReference.cache
+C:\Prashant\Examples\ASP.NET\WebAPIInMemoryDB\WebAPIInMemoryDB\obj\Debug\netcoreapp2.0\WebAPIInMemoryDB.csproj.CoreCompileInputs.cache
+C:\Prashant\Examples\ASP.NET\WebAPIInMemoryDB\WebAPIInMemoryDB\obj\Debug\netcoreapp2.0\WebAPIInMemoryDB.AssemblyInfoInputs.cache
+C:\Prashant\Examples\ASP.NET\WebAPIInMemoryDB\WebAPIInMemoryDB\obj\Debug\netcoreapp2.0\WebAPIInMemoryDB.AssemblyInfo.cs
+C:\Prashant\Examples\ASP.NET\WebAPIInMemoryDB\WebAPIInMemoryDB\bin\Debug\netcoreapp2.0\WebAPIInMemoryDB.pdb
+C:\Prashant\Examples\ASP.NET\WebAPIInMemoryDB\WebAPIInMemoryDB\obj\Debug\netcoreapp2.0\WebAPIInMemoryDB.dll
+C:\Prashant\Examples\ASP.NET\WebAPIInMemoryDB\WebAPIInMemoryDB\obj\Debug\netcoreapp2.0\WebAPIInMemoryDB.pdb
